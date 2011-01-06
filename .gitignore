@@ -1,0 +1,8 @@
+.svn/
+bin/
+target/
+m2/
+m2-target/
+*.pyc
+*~
+*.bak
